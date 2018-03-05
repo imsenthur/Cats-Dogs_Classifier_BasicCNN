@@ -1,0 +1,2 @@
+model_checkpoint_path: "/media/holy_cow/Stuff/AI_ML/Tensorflow/CatsVsDogs/DogsvsCats-0.001-6Conv-Basic-10epochs.model"
+all_model_checkpoint_paths: "/media/holy_cow/Stuff/AI_ML/Tensorflow/CatsVsDogs/DogsvsCats-0.001-6Conv-Basic-10epochs.model"
